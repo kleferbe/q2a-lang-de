@@ -102,7 +102,7 @@
 		'search_button' => 'Suchen',
 		'search_title' => 'Ideen durchsuchen',
 		'send_button' => 'Abschicken',
-                'suggest_ask' => 'Mach den Anfang und ^1stelle eine Idee^2.',
+                'suggest_ask' => 'Mach den Anfang und ^1erstelle eine neue Idee^2.',
                 'suggest_category_qs' => '^1Alle Ideen in dieser Kategorie anzeigen^2.',
                 'suggest_qs_tags' => '^1Alle Ideen anzeigen^2 oder ^3die beliebtesten Themen ansehen^4.',
                 'suggest_qs' => '^1Alle Ideen anzeigen^2.',
